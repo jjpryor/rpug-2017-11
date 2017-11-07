@@ -6,6 +6,7 @@
 + January meeting is tentatively scheduled for Monday January 8 in Cary.
 
 ## Puppet ecosystem software announcements and news bits
++ Puppet Online Community Hackday December 7
 + [Puppet Platform 5.3.2 is now available](https://groups.google.com/forum/#!topic/puppet-announce/jfodzecqLdQ)
 + [Puppet Enterprise 2016.4.8 and 2017.2.4 are now available](https://groups.google.com/forum/#!topic/puppet-announce/m492BkL9GFs)
 + [Puppet Enterprise 2017.3.1 is now available](https://groups.google.com/forum/#!topic/puppet-announce/NS_w5wSUjoI)
@@ -50,6 +51,7 @@
     + Puppet Enterprise Task Management: Bolt plus WebGUI, RBAC, audit trails, and team-oriented workflows.
   - PDK
   - Resource API
+    + A new better simplification of Type & Providers
 + Lots of focus on being operating system agnostic for both local development (PDK, editors) and for resources that get managed.
 + [Puppetconf 2017 - Youtube playlist](https://www.youtube.com/watch?v=0u4yo7_-dwg&list=PLV86BgbREluVYuJaYGQ0-ep45NCAFe3OQ&index=1), [Slides ](https://www.slideshare.net/PuppetLabs/presentations),  [Photos.](https://www.flickr.com/photos/puppetlabs/albums/72157689760583916)
 + [2017 Contributor Summit Kickoff & State of the Community](https://youtu.be/T6N4Cm-FJuI?list=PLV86BgbREluVYuJaYGQ0-ep45NCAFe3OQ)
