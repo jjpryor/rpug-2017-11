@@ -6,8 +6,8 @@
 + January meeting is tentatively scheduled for Monday January 8 in Cary.
 
 ## Puppet ecosystem software announcements and news bits
-+ Puppet Online Community Hackday December 7
-+ [Puppet Platform 5.3.2 is now available](https://groups.google.com/forum/#!topic/puppet-announce/jfodzecqLdQ)
++ [#puppethack - Puppet Online Community Hackday December 7](https://www.eventbrite.com/e/puppethack-online-puppet-community-hack-day-december-2017-registration-39200951100)
++ [Puppet Platform 5.3.3 is now available](https://groups.google.com/forum/#!topic/puppet-announce/wxJaJH_-QmE)
 + [Puppet Enterprise 2016.4.8 and 2017.2.4 are now available](https://groups.google.com/forum/#!topic/puppet-announce/m492BkL9GFs)
 + [Puppet Enterprise 2017.3.1 is now available](https://groups.google.com/forum/#!topic/puppet-announce/NS_w5wSUjoI)
 + [Updated the commercial product lifecycle](https://puppet.com/misc/puppet-enterprise-lifecycle)
